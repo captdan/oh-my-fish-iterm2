@@ -21,9 +21,7 @@ $ omf install iterm2
 
 ## Usage
 
-```fish
-$ iterm2
-```
+the plugin will automatically configure the necessary iterm2 hooks in your shell
 
 # License
 
