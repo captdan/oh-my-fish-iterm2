@@ -27,14 +27,14 @@ $ iterm2
 
 # License
 
-[MIT][mit] © [{{USER}}][author] et [al][contributors]
+[MIT][mit] © [captdan][author] et [al][contributors]
 
 
 [mit]:            http://opensource.org/licenses/MIT
-[author]:         http://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/pkg-iterm2/graphs/contributors
+[author]:         http://github.com/captdan
+[contributors]:   https://github.com/captdan/pkg-iterm2/graphs/contributors
 [omf-link]:       https://www.github.com/fish-shell/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
-[travis-badge]:   http://img.shields.io/travis/{{USER}}/iterm2.svg?style=flat-square
-[travis-link]:    https://travis-ci.org/{{USER}}/iterm2
+[travis-badge]:   http://img.shields.io/travis/captdan/iterm2.svg?style=flat-square
+[travis-link]:    https://travis-ci.org/captdan/iterm2
