@@ -5,7 +5,7 @@
 #   Options
 #
 
-function init -a path --on-event init_iterm2
+function init -a path --on-event init_(cat $OMF_CONFIG/theme)
   if status --is-interactive
     if [ x"$TERM" != "xscreen" ] 
       function iterm2_status
